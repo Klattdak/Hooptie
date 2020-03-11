@@ -1,2 +1,2 @@
 # Hooptie
-A Hooptie Dating app. 
+A Hooptie Dating App. 
